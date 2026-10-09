@@ -54,7 +54,9 @@ Displaying a CVV value can expose sensitive payment information to anyone able t
 
 Original test execution record: AOS022.
 
-No payment screenshots or sensitive card details are included in this public report.
+## Screenshot Evidence
+
+[View BUG004 – CVV Field Defect Screenshot (PDF)](../Screenshots/BUG%20REPORT%204%20SCREENSHOT.pdf)
 
 ## Related Test Case
 
