@@ -43,4 +43,3 @@ No defect recorded for this test case.
 
 This case is transcribed from the original AOS test execution table. The original record contains abbreviated steps and, for passing tests, typically records only PASS rather than detailed observed behavior. No additional execution details have been invented. Public test data may be redacted for security.
 
-
