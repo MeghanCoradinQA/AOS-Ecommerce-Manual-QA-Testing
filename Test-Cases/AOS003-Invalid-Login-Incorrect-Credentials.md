@@ -1,48 +1,45 @@
-# AOS003 – Invalid Login (Incorrect Credentials)
+# AOS003 – Invalid Login Incorrect Credentials
 
 ## Test Case Information
 
 | Field | Details |
 |---|---|
 | Test Case ID | AOS003 |
-| Module | Login / Authentication |
-| Test Type | Functional / Negative Testing |
-| Execution Status | PASS |
+| Original Test Case Name | `AOS_InvalidLogin_02` |
+| Original Test Scenario | `See surrounding group in source document` |
+| Test Type | Manual functional testing |
+| Priority | Not specified |
+| Execution Status | **PASS** |
 
 ## Test Objective
-Verify that the Advantage Online Shopping (AOS) application prevents users from logging in with invalid credentials and displays an appropriate error message.
+
+Test/Verify the login functionality with invalid username/password.
 
 ## Preconditions
-- The AOS application is accessible.
-- The user is logged out.
-- The login form is available.
+
+Open Application with Chrome.
 
 ## Test Data
-- Username: Invalid test username
-- Password: Invalid test password
 
-## Test Steps
+Redacted for public portfolio (refer to original private execution record).
 
-| Step | Test Action | Expected Result |
-|---|---|---|
-| 1 | Navigate to the AOS website | Homepage loads successfully |
-| 2 | Click the user/account icon | Login form appears |
-| 3 | Enter an invalid username | Username is entered into the field |
-| 4 | Enter an invalid password | Password is entered into the field |
-| 5 | Click Sign In | Login is rejected and an error message appears |
+## Test Steps (Original Record)
 
-## Expected Result
-The application should reject invalid login credentials, display an appropriate error message, and prevent unauthorized account access.
+1. Enter Username,Password and Click Sign In button
 
-## Actual Result
-The application rejected the invalid credentials and displayed the error message:
+## Expected Result (Original Record)
 
-"username/password are not correct"
+Application dsipalys an error "username/password are not corerct "
 
-The user was not logged in.
+## Actual Result / Execution Outcome
 
-## Test Execution Result
-**PASS**
+PASS recorded in original execution log; no detailed observed behavior was recorded in the Actual Results column.
 
-## Defect ID
-N/A – No defect identified.
+## Defect Reference
+
+No defect recorded for this test case.
+
+## Documentation Note
+
+This case is transcribed from the original AOS test execution table. The original record contains abbreviated steps and, for passing tests, typically records only PASS rather than detailed observed behavior. No additional execution details have been invented. Public test data may be redacted for security.
+
