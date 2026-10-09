@@ -49,7 +49,9 @@ Customers may be unable to review promotional details before deciding whether to
 
 ## Evidence
 
-No screenshot included. Attach original testing evidence if available.
+## Screenshot Evidence
+
+[View BUG002 – Special Offer Screenshot (PDF)](../Screenshots/BUG%20REPORT%202%20SCREENSHOT.pdf)
 
 ## Related Test Case
 
