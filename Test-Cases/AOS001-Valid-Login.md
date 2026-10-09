@@ -5,36 +5,43 @@
 | Field | Details |
 |---|---|
 | Test Case ID | AOS001 |
-| Module | Login / Authentication |
-| Test Type | Functional / Positive Testing |
-| Execution Status | PASS |
+| Original Test Case Name | `AOS_ValidLogin` |
+| Original Test Scenario | `AOS_Login` |
+| Test Type | Manual functional testing |
+| Priority | Not specified |
+| Execution Status | **PASS** |
 
 ## Test Objective
-Verify that a registered user can successfully log in to the Advantage Online Shopping (AOS) application using valid credentials.
+
+Test/Verify the login functionality with valid data.
 
 ## Preconditions
-- The user has an active registered account.
-- The AOS application is accessible.
-- The user is logged out.
 
-## Test Steps
+Open Application with Chrome.
 
-| Step | Test Action | Expected Result |
-|---|---|---|
-| 1 | Navigate to the AOS website | Homepage loads successfully |
-| 2 | Click the user/account icon | Login form appears |
-| 3 | Enter a valid username | Username is entered successfully |
-| 4 | Enter a valid password | Password is entered successfully |
-| 5 | Click Sign In | User is authenticated and logged in |
+## Test Data
 
-## Expected Result
-The user should successfully log in and have access to their account.
+Redacted for public portfolio (refer to original private execution record).
 
-## Actual Result
-The user successfully logged into the application using valid credentials.
+## Test Steps (Original Record)
 
-## Test Execution Result
-**PASS**
+1. Enter Username,Password and Click Sign In button
 
-## Defect ID
+## Expected Result (Original Record)
+
+Login should be successful
+
+## Actual Result / Execution Outcome
+
+PASS recorded in original execution log; no detailed observed behavior was recorded in the Actual Results column.
+
+## Defect Reference
+
+No defect recorded for this test case.
+
+## Documentation Note
+
+This case is transcribed from the original AOS test execution table. The original record contains abbreviated steps and, for passing tests, typically records only PASS rather than detailed observed behavior. No additional execution details have been invented. Public test data may be redacted for security.
+
+
 N/A – No defect identified.
