@@ -90,7 +90,6 @@ AOS-Ecommerce-Manual-QA-Testing/
 |
 |-- README.md
 |-- Test-Plan/
-|-- Test-Scenarios/
 |-- Test-Cases/
 |-- Bug-Reports/
 |-- Screenshots/
